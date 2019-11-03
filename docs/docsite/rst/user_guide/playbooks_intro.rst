@@ -21,7 +21,7 @@ any manual ordered process, even as different steps must bounce back and forth
 between sets of machines in particular orders.  They can launch tasks
 synchronously or asynchronously.
 
-While you might run the main ``/usr/bin/ansible`` program for ad-hoc
+While you might run the main ``ansible`` command for ad-hoc
 tasks, playbooks are more likely to be kept in source control and used
 to push out your configuration or assure the configurations of your
 remote systems are in spec.
